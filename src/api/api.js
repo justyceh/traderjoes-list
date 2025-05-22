@@ -3,8 +3,8 @@ const BASE_URL = import.meta.env.VITE_API_URL;
 export const fetchProducts = async (category = '') => {
   try {
     const url = category
-      ? `${BASE_URL}/products?category=${encodeURIComponent(category)}`
-      : `${BASE_URL}/products`;
+      ? `${BASE_URL}/api/products?category=${encodeURIComponent(category)}`
+      : `${BASE_URL}/api/products`;
 
     const response = await fetch(url);
     if (!response.ok) throw new Error('Failed to fetch products');
@@ -17,7 +17,7 @@ export const fetchProducts = async (category = '') => {
 
 export const searchProducts = async (query, category = '') => {
   try {
-    let url = `${BASE_URL}/products/search?query=${encodeURIComponent(query)}`;
+    let url = `${BASE_URL}/api/products/search?query=${encodeURIComponent(query)}`;
     if (category) url += `&category=${encodeURIComponent(category)}`;
 
     const response = await fetch(url);
@@ -31,7 +31,7 @@ export const searchProducts = async (query, category = '') => {
 
 export const fetchCategories = async () => {
   try {
-    const response = await fetch(`${BASE_URL}/products/categories`);
+    const response = await fetch(`${BASE_URL}/api/products/categories`);
     if (!response.ok) throw new Error('Failed to fetch categories');
     return await response.json();
   } catch (err) {

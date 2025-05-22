@@ -31,7 +31,7 @@ const ProductList = ({category, searchQuery, addToList, groceryList, removeFromL
           return(
             <GlowCard key={product._id}>
           <img
-            src={`http://localhost:5199${product.imagePath}`}
+            src={`${import.meta.env.VITE_API_URL}${product.imagePath}`}
             alt={product.name}
             className="w-full h-40 object-cover mb-2"
           />
