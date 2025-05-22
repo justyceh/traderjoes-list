@@ -1,18 +1,6 @@
 import { config } from 'dotenv';
 
-// Only load .env file in development
-if (process.env.NODE_ENV !== 'production') {
-  const envFilePath = `.env.${process.env.NODE_ENV || 'development'}.local`;
-  const result = config({ path: envFilePath });
-
-  if (result.error) {
-    console.error("❌ Failed to load dotenv file:", result.error);
-  } else {
-    console.log("✅ Dotenv file loaded:", envFilePath);
-  }
-} else {
-  config(); // ✅ In production, load directly from Render env vars
-}
+config();
 
 export const PORT = parseInt(process.env.PORT, 10) || 5199;
 export const NODE_ENV = process.env.NODE_ENV;
