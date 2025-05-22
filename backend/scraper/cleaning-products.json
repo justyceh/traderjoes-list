@@ -1,0 +1,714 @@
+[
+  {
+    "name": "Sea Breeze Castile Hand Soap",
+    "price": "$3.99",
+    "category": "For the Face & Body",
+    "url": "https://www.traderjoes.com/home/products/pdp/sea-breeze-castile-hand-soap-075348",
+    "imageUrl": "https://www.traderjoes.com/content/dam/trjo/products/m502/75348.png/jcr:content/renditions/cq5dam.web.1280.1280",
+    "imagePath": "/images/sea-breeze-castile-hand-soap.jpg"
+  },
+  {
+    "name": "Garden Party Scented Candle",
+    "price": "$8.99",
+    "category": "Household Essentials",
+    "url": "https://www.traderjoes.com/home/products/pdp/garden-party-scented-candle-081544",
+    "imageUrl": "https://www.traderjoes.com/content/dam/trjo/products/m501/81544.png/jcr:content/renditions/cq5dam.web.1280.1280",
+    "imagePath": "/images/garden-party-scented-candle.jpg"
+  },
+  {
+    "name": "Peony Scented Bath Fizzer",
+    "price": "$4.99",
+    "category": "For the Face & Body",
+    "url": "https://www.traderjoes.com/home/products/pdp/peony-scented-bath-fizzer-080887",
+    "imageUrl": "https://www.traderjoes.com/content/dam/trjo/products/m502/80887.png/jcr:content/renditions/cq5dam.web.1280.1280",
+    "imagePath": "/images/peony-scented-bath-fizzer.jpg"
+  },
+  {
+    "name": "Berry Glow Body Set",
+    "price": "$12.99",
+    "category": "For the Face & Body",
+    "url": "https://www.traderjoes.com/home/products/pdp/berry-glow-body-set-081212",
+    "imageUrl": "https://www.traderjoes.com/content/dam/trjo/products/m502/81212.png/jcr:content/renditions/cq5dam.web.1280.1280",
+    "imagePath": "/images/berry-glow-body-set.jpg"
+  },
+  {
+    "name": "Invisible Gel Body Sunscreen SPF 40",
+    "price": "$12.99",
+    "category": "For the Face & Body",
+    "url": "https://www.traderjoes.com/home/products/pdp/invisible-gel-body-sunscreen-spf-40-080886",
+    "imageUrl": "https://www.traderjoes.com/content/dam/trjo/products/m502/80886.png/jcr:content/renditions/cq5dam.web.1280.1280",
+    "imagePath": "/images/invisible-gel-body-sunscreen-spf-40.jpg"
+  },
+  {
+    "name": "Daily Facial Mineral Sunscreen SPF 40",
+    "price": "$12.99",
+    "category": "For the Face & Body",
+    "url": "https://www.traderjoes.com/home/products/pdp/daily-facial-mineral-sunscreen-spf-40-080885",
+    "imageUrl": "https://www.traderjoes.com/content/dam/trjo/products/m502/80885.png/jcr:content/renditions/cq5dam.web.1280.1280",
+    "imagePath": "/images/daily-facial-mineral-sunscreen-spf-40.jpg"
+  },
+  {
+    "name": "Fresh Blooms Ultra Moisturizing Hand Cream",
+    "price": "$4.99",
+    "category": "For the Face & Body",
+    "url": "https://www.traderjoes.com/home/products/pdp/fresh-blooms-ultra-moisturizing-hand-cream-081213",
+    "imageUrl": "https://www.traderjoes.com/content/dam/trjo/products/m502/81213.png/jcr:content/renditions/cq5dam.web.1280.1280",
+    "imagePath": "/images/fresh-blooms-ultra-moisturizing-hand-cream.jpg"
+  },
+  {
+    "name": "Sunday Brunch Chicken & Blueberry Waffle Recipe Dog Treats",
+    "price": "$3.49",
+    "category": "Pet Stuff",
+    "url": "https://www.traderjoes.com/home/products/pdp/sunday-brunch-chicken-blueberry-waffle-recipe-dog-treats-078999",
+    "imageUrl": "https://www.traderjoes.com/content/dam/trjo/products/m503/78999.png/jcr:content/renditions/cq5dam.web.1280.1280",
+    "imagePath": "/images/sunday-brunch-chicken-blueberry-waffle-recipe-dog-treats.jpg"
+  },
+  {
+    "name": "Night Cream",
+    "price": "$9.99",
+    "category": "For the Face & Body",
+    "url": "https://www.traderjoes.com/home/products/pdp/night-cream-080359",
+    "imageUrl": "https://www.traderjoes.com/content/dam/trjo/products/m502/80359.png/jcr:content/renditions/cq5dam.web.1280.1280",
+    "imagePath": "/images/night-cream.jpg"
+  },
+  {
+    "name": "Mini Pastel Canvas Tote Bags",
+    "price": "$2.99",
+    "category": "Household Essentials",
+    "url": "https://www.traderjoes.com/home/products/pdp/mini-pastel-canvas-tote-bags-079986",
+    "imageUrl": "https://www.traderjoes.com/content/dam/trjo/products/m501/79986.png/jcr:content/renditions/cq5dam.web.1280.1280",
+    "imagePath": "/images/mini-pastel-canvas-tote-bags.jpg"
+  },
+  {
+    "name": "Crispy Chicken Chips Dog Treats",
+    "price": "$4.99",
+    "category": "Pet Stuff",
+    "url": "https://www.traderjoes.com/home/products/pdp/crispy-chicken-chips-dog-treats-079727",
+    "imageUrl": "https://www.traderjoes.com/content/dam/trjo/products/m503/79727.png/jcr:content/renditions/cq5dam.web.1280.1280",
+    "imagePath": "/images/crispy-chicken-chips-dog-treats.jpg"
+  },
+  {
+    "name": "Beef & Sweet Potatoe Recipe Stuffies Dog Treats",
+    "price": "$4.79",
+    "category": "Pet Stuff",
+    "url": "https://www.traderjoes.com/home/products/pdp/beef-sweet-potatoe-recipe-stuffies-dog-treats-076763",
+    "imageUrl": "https://www.traderjoes.com/content/dam/trjo/products/m503/76763.png/jcr:content/renditions/cq5dam.web.1280.1280",
+    "imagePath": "/images/beef-sweet-potatoe-recipe-stuffies-dog-treats.jpg"
+  },
+  {
+    "name": "Sensitivity + Whitening Peppermint Fluoride Toothpaste",
+    "price": "$3.99",
+    "category": "For the Face & Body",
+    "url": "https://www.traderjoes.com/home/products/pdp/sensitivity-whitening-peppermint-fluoride-toothpaste-076820",
+    "imageUrl": "https://www.traderjoes.com/content/dam/trjo/products/m502/76820.png/jcr:content/renditions/cq5dam.web.1280.1280",
+    "imagePath": "/images/sensitivity-whitening-peppermint-fluoride-toothpaste.jpg"
+  },
+  {
+    "name": "Peppermint Fluoride Free Toothpaste",
+    "price": "$3.99",
+    "category": "For the Face & Body",
+    "url": "https://www.traderjoes.com/home/products/pdp/peppermint-fluoride-free-toothpaste-076818",
+    "imageUrl": "https://www.traderjoes.com/content/dam/trjo/products/m502/76818.png/jcr:content/renditions/cq5dam.web.1280.1280",
+    "imagePath": "/images/peppermint-fluoride-free-toothpaste.jpg"
+  },
+  {
+    "name": "Bully Chewers",
+    "price": "$3.99",
+    "category": "Pet Stuff",
+    "url": "https://www.traderjoes.com/home/products/pdp/bully-chewers-079323",
+    "imageUrl": "https://www.traderjoes.com/content/dam/trjo/products/m503/79323.png/jcr:content/renditions/cq5dam.web.1280.1280",
+    "imagePath": "/images/bully-chewers.jpg"
+  },
+  {
+    "name": "Body Wash & Serum Duo",
+    "price": "$12.99",
+    "category": "For the Face & Body",
+    "url": "https://www.traderjoes.com/home/products/pdp/body-wash-serum-duo-079371",
+    "imageUrl": "https://www.traderjoes.com/content/dam/trjo/products/m502/79371.png/jcr:content/renditions/cq5dam.web.1280.1280",
+    "imagePath": "/images/body-wash-serum-duo.jpg"
+  },
+  {
+    "name": "Reusable Silcone Food Storage Bag Half Gallon",
+    "price": "$5.99",
+    "category": "Household Essentials",
+    "url": "https://www.traderjoes.com/home/products/pdp/reusable-silcone-food-storage-bag-half-gallon-078975",
+    "imageUrl": "https://www.traderjoes.com/content/dam/trjo/products/m501/78975.png/jcr:content/renditions/cq5dam.web.1280.1280",
+    "imagePath": "/images/reusable-silcone-food-storage-bag-half-gallon.jpg"
+  },
+  {
+    "name": "Hair Oil",
+    "price": "$5.99",
+    "category": "For the Face & Body",
+    "url": "https://www.traderjoes.com/home/products/pdp/hair-oil-075750",
+    "imageUrl": "https://www.traderjoes.com/content/dam/trjo/products/m502/75750.png/jcr:content/renditions/cq5dam.web.1280.1280",
+    "imagePath": "/images/hair-oil.jpg"
+  },
+  {
+    "name": "Leave in Conditioner",
+    "price": "$5.99",
+    "category": "For the Face & Body",
+    "url": "https://www.traderjoes.com/home/products/pdp/leave-in-conditioner-079260",
+    "imageUrl": "https://www.traderjoes.com/content/dam/trjo/products/m502/79260.png/jcr:content/renditions/cq5dam.web.1280.1280",
+    "imagePath": "/images/leave-in-conditioner.jpg"
+  },
+  {
+    "name": "Hyaluronic Moisture Boost Serum",
+    "price": "$8.99",
+    "category": "For the Face & Body",
+    "url": "https://www.traderjoes.com/home/products/pdp/hyaluronic-moisture-boost-serum-061136",
+    "imageUrl": "https://www.traderjoes.com/content/dam/trjo/products/m502/61136.png/jcr:content/renditions/cq5dam.web.1280.1280",
+    "imagePath": "/images/hyaluronic-moisture-boost-serum.jpg"
+  },
+  {
+    "name": "Super Soft Bath Tissue",
+    "price": "$3.99",
+    "category": "Household Essentials",
+    "url": "https://www.traderjoes.com/home/products/pdp/super-soft-bath-tissue-099131",
+    "imageUrl": "https://www.traderjoes.com/content/dam/trjo/products/m501/99131.png/jcr:content/renditions/cq5dam.web.1280.1280",
+    "imagePath": "/images/super-soft-bath-tissue.jpg"
+  },
+  {
+    "name": "Hydrating Biocellulose Face Mask",
+    "price": "$2.99",
+    "category": "For the Face & Body",
+    "url": "https://www.traderjoes.com/home/products/pdp/hydrating-biocellulose-face-mask-076471",
+    "imageUrl": "https://www.traderjoes.com/content/dam/trjo/products/m502/76471.png/jcr:content/renditions/cq5dam.web.1280.1280",
+    "imagePath": "/images/hydrating-biocellulose-face-mask.jpg"
+  },
+  {
+    "name": "Nothing But Sweet Potato Dog Treats",
+    "price": "$4.99",
+    "category": "Pet Stuff",
+    "url": "https://www.traderjoes.com/home/products/pdp/nothing-but-sweet-potato-dog-treats-076028",
+    "imageUrl": "https://www.traderjoes.com/content/dam/trjo/products/m503/76028.png/jcr:content/renditions/cq5dam.web.1280.1280",
+    "imagePath": "/images/nothing-but-sweet-potato-dog-treats.jpg"
+  },
+  {
+    "name": "Hydrolyzed Collagen Powder",
+    "price": "$7.99",
+    "category": "Nutritional Supplements",
+    "url": "https://www.traderjoes.com/home/products/pdp/hydrolyzed-collagen-powder-074194",
+    "imageUrl": "https://www.traderjoes.com/content/dam/trjo/products/M504/74194.png/jcr:content/renditions/cq5dam.web.1280.1280",
+    "imagePath": "/images/hydrolyzed-collagen-powder.jpg"
+  },
+  {
+    "name": "All Purpose Disinfectant Cleaner",
+    "price": "$3.99",
+    "category": "Household Essentials",
+    "url": "https://www.traderjoes.com/home/products/pdp/all-purpose-disinfectant-cleaner-074545",
+    "imageUrl": "https://www.traderjoes.com/content/dam/trjo/products/m501/74545.png/jcr:content/renditions/cq5dam.web.1280.1280",
+    "imagePath": "/images/all-purpose-disinfectant-cleaner.jpg"
+  },
+  {
+    "name": "Unscented Deodorant",
+    "price": "$4.99",
+    "category": "For the Face & Body",
+    "url": "https://www.traderjoes.com/home/products/pdp/unscented-deodorant-075508",
+    "imageUrl": "https://www.traderjoes.com/content/dam/trjo/products/m502/75508.png/jcr:content/renditions/cq5dam.web.1280.1280",
+    "imagePath": "/images/unscented-deodorant.jpg"
+  },
+  {
+    "name": "Lavender Hand Sanitizer Spray",
+    "price": "$1.99",
+    "category": "For the Face & Body",
+    "url": "https://www.traderjoes.com/home/products/pdp/lavender-hand-sanitizer-spray-070912",
+    "imageUrl": "https://www.traderjoes.com/content/dam/trjo/products/m502/70912.png/jcr:content/renditions/cq5dam.web.1280.1280",
+    "imagePath": "/images/lavender-hand-sanitizer-spray.jpg"
+  },
+  {
+    "name": "Vanilla Lip Mask",
+    "price": "$5.99",
+    "category": "For the Face & Body",
+    "url": "https://www.traderjoes.com/home/products/pdp/vanilla-lip-mask-076921",
+    "imageUrl": "https://www.traderjoes.com/content/dam/trjo/products/m502/76921.png/jcr:content/renditions/cq5dam.web.1280.1280",
+    "imagePath": "/images/vanilla-lip-mask.jpg"
+  },
+  {
+    "name": "Peppermint Multi-Purpose Castile Soap",
+    "price": "$5.99",
+    "category": "For the Face & Body",
+    "url": "https://www.traderjoes.com/home/products/pdp/peppermint-multi-purpose-castile-soap-076117",
+    "imageUrl": "https://www.traderjoes.com/content/dam/trjo/products/m502/76117.png/jcr:content/renditions/cq5dam.web.1280.1280",
+    "imagePath": "/images/peppermint-multi-purpose-castile-soap.jpg"
+  },
+  {
+    "name": "Chicken & Bone Broth Recipe Dog Treats",
+    "price": "$3.99",
+    "category": "Pet Stuff",
+    "url": "https://www.traderjoes.com/home/products/pdp/chicken-bone-broth-recipe-dog-treats-076863",
+    "imageUrl": "https://www.traderjoes.com/content/dam/trjo/products/m503/76863.png/jcr:content/renditions/cq5dam.web.1280.1280",
+    "imagePath": "/images/chicken-bone-broth-recipe-dog-treats.jpg"
+  },
+  {
+    "name": "Slim Size Paper Towels",
+    "price": "$3.99",
+    "category": "Household Essentials",
+    "url": "https://www.traderjoes.com/home/products/pdp/slim-size-paper-towels-044191",
+    "imageUrl": "https://www.traderjoes.com/content/dam/trjo/products/m501/44191.png/jcr:content/renditions/cq5dam.web.1280.1280",
+    "imagePath": "/images/slim-size-paper-towels.jpg"
+  },
+  {
+    "name": "Fragrance-Free Body Butter",
+    "price": "$5.49",
+    "category": "For the Face & Body",
+    "url": "https://www.traderjoes.com/home/products/pdp/fragrance-free-body-butter-075635",
+    "imageUrl": "https://www.traderjoes.com/content/dam/trjo/products/m502/75635.png/jcr:content/renditions/cq5dam.web.1280.1280",
+    "imagePath": "/images/fragrance-free-body-butter.jpg"
+  },
+  {
+    "name": "Handcrafted Felted Wool Holiday Trivet",
+    "price": "$7.99",
+    "category": "Household Essentials",
+    "url": "https://www.traderjoes.com/home/products/pdp/handcrafted-felted-wool-holiday-trivet-076664",
+    "imageUrl": "https://www.traderjoes.com/content/dam/trjo/products/m501/76664.png/jcr:content/renditions/cq5dam.web.1280.1280",
+    "imagePath": "/images/handcrafted-felted-wool-holiday-trivet.jpg"
+  },
+  {
+    "name": "Handcrafted Felted Wool Pinecone",
+    "price": "$0.99",
+    "category": "Household Essentials",
+    "url": "https://www.traderjoes.com/home/products/pdp/handcrafted-felted-wool-pinecone-076662",
+    "imageUrl": "https://www.traderjoes.com/content/dam/trjo/products/m501/76662.png/jcr:content/renditions/cq5dam.web.1280.1280",
+    "imagePath": "/images/handcrafted-felted-wool-pinecone.jpg"
+  },
+  {
+    "name": "Orgain® Vanilla Bean Organic Protein Boost Powder",
+    "price": "$14.99",
+    "category": "Nutritional Supplements",
+    "url": "https://www.traderjoes.com/home/products/pdp/orgain-vanilla-bean-organic-protein-boost-powder-077804",
+    "imageUrl": "https://www.traderjoes.com/content/dam/trjo/products/M504/77804.png/jcr:content/renditions/cq5dam.web.1280.1280",
+    "imagePath": "/images/orgain-vanilla-bean-organic-protein-boost-powder.jpg"
+  },
+  {
+    "name": "Orgain® Creamy Chocolate Fudge Organic Protein Boost Powder",
+    "price": "$14.99",
+    "category": "Nutritional Supplements",
+    "url": "https://www.traderjoes.com/home/products/pdp/orgain-creamy-chocolate-fudge-organic-protein-boost-powder-077808",
+    "imageUrl": "https://www.traderjoes.com/content/dam/trjo/products/M504/77808.png/jcr:content/renditions/cq5dam.web.1280.1280",
+    "imagePath": "/images/orgain-creamy-chocolate-fudge-organic-protein-boost-powder.jpg"
+  },
+  {
+    "name": "Citrus Jute Bag",
+    "price": "$3.99",
+    "category": "Household Essentials",
+    "url": "https://www.traderjoes.com/home/products/pdp/citrus-jute-bag-076250",
+    "imageUrl": "https://www.traderjoes.com/content/dam/trjo/products/m501/76250.png/jcr:content/renditions/cq5dam.web.1280.1280",
+    "imagePath": "/images/citrus-jute-bag.jpg"
+  },
+  {
+    "name": "Reusable Sponge Cloths",
+    "price": "$3.99",
+    "category": "Household Essentials",
+    "url": "https://www.traderjoes.com/home/products/pdp/reusable-sponge-cloths-075091",
+    "imageUrl": "https://www.traderjoes.com/content/dam/trjo/products/m501/75091.png/jcr:content/renditions/cq5dam.web.1280.1280",
+    "imagePath": "/images/reusable-sponge-cloths.jpg"
+  },
+  {
+    "name": "Reusable Silicone Food Storage Bags",
+    "price": "$9.99",
+    "category": "Household Essentials",
+    "url": "https://www.traderjoes.com/home/products/pdp/reusable-silicone-food-storage-bags-075552",
+    "imageUrl": "https://www.traderjoes.com/content/dam/trjo/products/m501/75552.png/jcr:content/renditions/cq5dam.web.1280.1280",
+    "imagePath": "/images/reusable-silicone-food-storage-bags.jpg"
+  },
+  {
+    "name": "Waffle Weave Cotton Kitchen Towels",
+    "price": "$7.99",
+    "category": "Household Essentials",
+    "url": "https://www.traderjoes.com/home/products/pdp/waffle-weave-cotton-kitchen-towels-075425",
+    "imageUrl": "https://www.traderjoes.com/content/dam/trjo/products/m501/75425.png/jcr:content/renditions/cq5dam.web.1280.1280",
+    "imagePath": "/images/waffle-weave-cotton-kitchen-towels.jpg"
+  },
+  {
+    "name": "Lemongrass Moisturizing Shampoo",
+    "price": "$4.99",
+    "category": "For the Face & Body",
+    "url": "https://www.traderjoes.com/home/products/pdp/lemongrass-moisturizing-shampoo-074463",
+    "imageUrl": "https://www.traderjoes.com/content/dam/trjo/products/m502/74463.png/jcr:content/renditions/cq5dam.web.1280.1280",
+    "imagePath": "/images/lemongrass-moisturizing-shampoo.jpg"
+  },
+  {
+    "name": "Lemongrass Moisturizing Conditioner",
+    "price": "$4.99",
+    "category": "For the Face & Body",
+    "url": "https://www.traderjoes.com/home/products/pdp/lemongrass-moisturizing-conditioner-074464",
+    "imageUrl": "https://www.traderjoes.com/content/dam/trjo/products/m502/74464.png/jcr:content/renditions/cq5dam.web.1280.1280",
+    "imagePath": "/images/lemongrass-moisturizing-conditioner.jpg"
+  },
+  {
+    "name": "Eucalyptus Scented Candle",
+    "price": "$3.99",
+    "category": "Household Essentials",
+    "url": "https://www.traderjoes.com/home/products/pdp/eucalyptus-scented-candle-077117",
+    "imageUrl": "https://www.traderjoes.com/content/dam/trjo/products/m501/77117.png/jcr:content/renditions/cq5dam.web.1280.1280",
+    "imagePath": "/images/eucalyptus-scented-candle.jpg"
+  },
+  {
+    "name": "Hand & Body Cream with Moroccan Argan Oil",
+    "price": "$3.99",
+    "category": "For the Face & Body",
+    "url": "https://www.traderjoes.com/home/products/pdp/hand-body-cream-with-moroccan-argan-oil-067303",
+    "imageUrl": "https://www.traderjoes.com/content/dam/trjo/products/m502/67303.png/jcr:content/renditions/cq5dam.web.1280.1280",
+    "imagePath": "/images/hand-body-cream-with-moroccan-argan-oil.jpg"
+  },
+  {
+    "name": "Here, Kitty Kitty! Cat Treats",
+    "price": "$2.99",
+    "category": "Pet Stuff",
+    "url": "https://www.traderjoes.com/home/products/pdp/here-kitty-kitty-cat-treats-074956",
+    "imageUrl": "https://www.traderjoes.com/content/dam/trjo/products/m503/74956.png/jcr:content/renditions/cq5dam.web.1280.1280",
+    "imagePath": "/images/here-kitty-kitty-cat-treats.jpg"
+  },
+  {
+    "name": "Brazil Nut Body Wash",
+    "price": "$5.99",
+    "category": "For the Face & Body",
+    "url": "https://www.traderjoes.com/home/products/pdp/brazil-nut-body-wash-076047",
+    "imageUrl": "https://www.traderjoes.com/content/dam/trjo/products/m502/76047.png/jcr:content/renditions/cq5dam.web.1280.1280",
+    "imagePath": "/images/brazil-nut-body-wash.jpg"
+  },
+  {
+    "name": "Cleansing + Conditioning Hair Wash",
+    "price": "$4.99",
+    "category": "For the Face & Body",
+    "url": "https://www.traderjoes.com/home/products/pdp/cleansing-conditioning-hair-wash-074744",
+    "imageUrl": "https://www.traderjoes.com/content/dam/trjo/products/m502/74744.png/jcr:content/renditions/cq5dam.web.1280.1280",
+    "imagePath": "/images/cleansing-conditioning-hair-wash.jpg"
+  },
+  {
+    "name": "Supreme Hydrating Eye Cream",
+    "price": "$5.99",
+    "category": "For the Face & Body",
+    "url": "https://www.traderjoes.com/home/products/pdp/supreme-hydrating-eye-cream-065167",
+    "imageUrl": "https://www.traderjoes.com/content/dam/trjo/products/m502/65167.png/jcr:content/renditions/cq5dam.web.1280.1280",
+    "imagePath": "/images/supreme-hydrating-eye-cream.jpg"
+  },
+  {
+    "name": "Holiday Bow-Wow Brunch Dog Treats",
+    "price": "$3.99",
+    "category": "Pet Stuff",
+    "url": "https://www.traderjoes.com/home/products/pdp/holiday-bow-wow-brunch-dog-treats-074928",
+    "imageUrl": "https://www.traderjoes.com/content/dam/trjo/products/m503/74928.png/jcr:content/renditions/cq5dam.web.1280.1280",
+    "imagePath": "/images/holiday-bow-wow-brunch-dog-treats.jpg"
+  },
+  {
+    "name": "Felted Wool Garland, 9 ft",
+    "price": "$0.01",
+    "category": "Household Essentials",
+    "url": "https://www.traderjoes.com/home/products/pdp/felted-wool-garland-9-ft-066040",
+    "imageUrl": "https://www.traderjoes.com/content/dam/trjo/products/m501/66040.png/jcr:content/renditions/cq5dam.web.1280.1280",
+    "imagePath": "/images/felted-wool-garland-9-ft.jpg"
+  },
+  {
+    "name": "Felted Wool Wreath",
+    "price": "$0.01",
+    "category": "Household Essentials",
+    "url": "https://www.traderjoes.com/home/products/pdp/felted-wool-wreath-074714",
+    "imageUrl": "https://www.traderjoes.com/content/dam/trjo/products/m501/74714.png/jcr:content/renditions/cq5dam.web.1280.1280",
+    "imagePath": "/images/felted-wool-wreath.jpg"
+  },
+  {
+    "name": "Pomander Room Spritz",
+    "price": "$1.99",
+    "category": "Household Essentials",
+    "url": "https://www.traderjoes.com/home/products/pdp/pomander-room-spritz-068392",
+    "imageUrl": "https://www.traderjoes.com/content/dam/trjo/products/m501/68392.png/jcr:content/renditions/cq5dam.web.1280.1280",
+    "imagePath": "/images/pomander-room-spritz.jpg"
+  },
+  {
+    "name": "Vanilla Pumpkin Hand Soap & Hand Lotion",
+    "price": "$7.99",
+    "category": "For the Face & Body",
+    "url": "https://www.traderjoes.com/home/products/pdp/vanilla-pumpkin-hand-soap-hand-lotion-074874",
+    "imageUrl": "https://www.traderjoes.com/content/dam/trjo/products/m502/74874.png/jcr:content/renditions/cq5dam.web.1280.1280",
+    "imagePath": "/images/vanilla-pumpkin-hand-soap-hand-lotion.jpg"
+  },
+  {
+    "name": "Brazil Nut Body Scrub",
+    "price": "$5.99",
+    "category": "For the Face & Body",
+    "url": "https://www.traderjoes.com/home/products/pdp/brazil-nut-body-scrub-074814",
+    "imageUrl": "https://www.traderjoes.com/content/dam/trjo/products/m502/74814.png/jcr:content/renditions/cq5dam.web.1280.1280",
+    "imagePath": "/images/brazil-nut-body-scrub.jpg"
+  },
+  {
+    "name": "Freeze-Dried Just Chicken for Pets",
+    "price": "$5.99",
+    "category": "Pet Stuff",
+    "url": "https://www.traderjoes.com/home/products/pdp/freeze-dried-just-chicken-for-pets-074344",
+    "imageUrl": "https://www.traderjoes.com/content/dam/trjo/products/m503/74344.png/jcr:content/renditions/cq5dam.web.1280.1280",
+    "imagePath": "/images/freeze-dried-just-chicken-for-pets.jpg"
+  },
+  {
+    "name": "Daily Facial Sunscreen SPF 40",
+    "price": "$8.99",
+    "category": "For the Face & Body",
+    "url": "https://www.traderjoes.com/home/products/pdp/daily-facial-sunscreen-spf-40-073568",
+    "imageUrl": "https://www.traderjoes.com/content/dam/trjo/products/m502/73568.png/jcr:content/renditions/cq5dam.web.1280.1280",
+    "imagePath": "/images/daily-facial-sunscreen-spf-40.jpg"
+  },
+  {
+    "name": "Shea Butter & Coconut Oil Hair Mask",
+    "price": "$3.99",
+    "category": "For the Face & Body",
+    "url": "https://www.traderjoes.com/home/products/pdp/shea-butter-coconut-oil-hair-mask-061447",
+    "imageUrl": "https://www.traderjoes.com/content/dam/trjo/products/m502/61447.png/jcr:content/renditions/cq5dam.web.1280.1280",
+    "imagePath": "/images/shea-butter-coconut-oil-hair-mask.jpg"
+  },
+  {
+    "name": "Brazil Nut Body Butter",
+    "price": "$5.99",
+    "category": "For the Face & Body",
+    "url": "https://www.traderjoes.com/home/products/pdp/brazil-nut-body-butter-071211",
+    "imageUrl": "https://www.traderjoes.com/content/dam/trjo/products/m502/71211.png/jcr:content/renditions/cq5dam.web.1280.1280",
+    "imagePath": "/images/brazil-nut-body-butter.jpg"
+  },
+  {
+    "name": "Rawhide Free Peanut Butter Flavor Dog Treat",
+    "price": "$4.79",
+    "category": "Pet Stuff",
+    "url": "https://www.traderjoes.com/home/products/pdp/rawhide-free-peanut-butter-flavor-dog-treat-072313",
+    "imageUrl": "https://www.traderjoes.com/content/dam/trjo/products/m503/72313.png/jcr:content/renditions/cq5dam.web.1280.1280",
+    "imagePath": "/images/rawhide-free-peanut-butter-flavor-dog-treat.jpg"
+  },
+  {
+    "name": "Retinol Night Serum",
+    "price": "$9.99",
+    "category": "For the Face & Body",
+    "url": "https://www.traderjoes.com/home/products/pdp/retinol-night-serum-072228",
+    "imageUrl": "https://www.traderjoes.com/content/dam/trjo/products/m502/72228.png/jcr:content/renditions/cq5dam.web.1280.1280",
+    "imagePath": "/images/retinol-night-serum.jpg"
+  },
+  {
+    "name": "Grapefruit Scented Candle",
+    "price": "$3.99",
+    "category": "Household Essentials",
+    "url": "https://www.traderjoes.com/home/products/pdp/grapefruit-scented-candle-060385",
+    "imageUrl": "https://www.traderjoes.com/content/dam/trjo/products/m501/60385.png/jcr:content/renditions/cq5dam.web.1280.1280",
+    "imagePath": "/images/grapefruit-scented-candle.jpg"
+  },
+  {
+    "name": "Multi-Purpose Cleaner Cedarwood & Sage",
+    "price": "$3.99",
+    "category": "Household Essentials",
+    "url": "https://www.traderjoes.com/home/products/pdp/multi-purpose-cleaner-cedarwood-sage-065400",
+    "imageUrl": "https://www.traderjoes.com/content/dam/trjo/products/m501/65400.png/jcr:content/renditions/cq5dam.web.1280.1280",
+    "imagePath": "/images/multi-purpose-cleaner-cedarwood-sage.jpg"
+  },
+  {
+    "name": "Liquid Dish Soap Lavender Tea Tree Scent",
+    "price": "$2.99",
+    "category": "Household Essentials",
+    "url": "https://www.traderjoes.com/home/products/pdp/liquid-dish-soap-lavender-tea-tree-scent-058328",
+    "imageUrl": "https://www.traderjoes.com/content/dam/trjo/products/m501/58328.png/jcr:content/renditions/cq5dam.web.1280.1280",
+    "imagePath": "/images/liquid-dish-soap-lavender-tea-tree-scent.jpg"
+  },
+  {
+    "name": "Ultra Moisturizing Hand Cream",
+    "price": "$4.99",
+    "category": "For the Face & Body",
+    "url": "https://www.traderjoes.com/home/products/pdp/ultra-moisturizing-hand-cream-054571",
+    "imageUrl": "https://www.traderjoes.com/content/dam/trjo/products/m502/54571.png/jcr:content/renditions/cq5dam.web.1280.1280",
+    "imagePath": "/images/ultra-moisturizing-hand-cream.jpg"
+  },
+  {
+    "name": "Liquid Dish Soap Citrus Scent",
+    "price": "$2.99",
+    "category": "Household Essentials",
+    "url": "https://www.traderjoes.com/home/products/pdp/liquid-dish-soap-citrus-scent-058329",
+    "imageUrl": "https://www.traderjoes.com/content/dam/trjo/products/m501/58329.png/jcr:content/renditions/cq5dam.web.1280.1280",
+    "imagePath": "/images/liquid-dish-soap-citrus-scent.jpg"
+  },
+  {
+    "name": "Liquid Laundry Detergent Lavender Scent",
+    "price": "$10.99",
+    "category": "Household Essentials",
+    "url": "https://www.traderjoes.com/home/products/pdp/liquid-laundry-detergent-lavender-scent-065405",
+    "imageUrl": "https://www.traderjoes.com/content/dam/trjo/products/m501/65405.png/jcr:content/renditions/cq5dam.web.1280.1280",
+    "imagePath": "/images/liquid-laundry-detergent-lavender-scent.jpg"
+  },
+  {
+    "name": "Grain Free Cheeseburger Flavor Dog Treats",
+    "price": "$2.99",
+    "category": "Pet Stuff",
+    "url": "https://www.traderjoes.com/home/products/pdp/grain-free-cheeseburger-flavor-dog-treats-072267",
+    "imageUrl": "https://www.traderjoes.com/content/dam/trjo/products/m503/72267.png/jcr:content/renditions/cq5dam.web.1280.1280",
+    "imagePath": "/images/grain-free-cheeseburger-flavor-dog-treats.jpg"
+  },
+  {
+    "name": "Cranberry & Herb Supplement Drops",
+    "price": "$1.49",
+    "category": "Nutritional Supplements",
+    "url": "https://www.traderjoes.com/home/products/pdp/cranberry-herb-supplement-drops-058191",
+    "imageUrl": "https://www.traderjoes.com/content/dam/trjo/products/M504/58191.png/jcr:content/renditions/cq5dam.web.1280.1280",
+    "imagePath": "/images/cranberry-herb-supplement-drops.jpg"
+  },
+  {
+    "name": "Honey Lemon Cough Drops",
+    "price": "$1.49",
+    "category": "Nutritional Supplements",
+    "url": "https://www.traderjoes.com/home/products/pdp/honey-lemon-cough-drops-058192",
+    "imageUrl": "https://www.traderjoes.com/content/dam/trjo/products/M504/58192.png/jcr:content/renditions/cq5dam.web.1280.1280",
+    "imagePath": "/images/honey-lemon-cough-drops.jpg"
+  },
+  {
+    "name": "Pink Peppermint Face & Body Mask",
+    "price": "$6.99",
+    "category": "For the Face & Body",
+    "url": "https://www.traderjoes.com/home/products/pdp/pink-peppermint-face-body-mask-072221",
+    "imageUrl": "https://www.traderjoes.com/content/dam/trjo/products/m502/72221.png/jcr:content/renditions/cq5dam.web.1280.1280",
+    "imagePath": "/images/pink-peppermint-face-body-mask.jpg"
+  },
+  {
+    "name": "Hair Rescue Set",
+    "price": "$9.99",
+    "category": "For the Face & Body",
+    "url": "https://www.traderjoes.com/home/products/pdp/hair-rescue-set-072179",
+    "imageUrl": "https://www.traderjoes.com/content/dam/trjo/products/m502/72179.png/jcr:content/renditions/cq5dam.web.1280.1280",
+    "imagePath": "/images/hair-rescue-set.jpg"
+  },
+  {
+    "name": "Chew-Cuterie Assorted Dog Treats",
+    "price": "$3.29",
+    "category": "Pet Stuff",
+    "url": "https://www.traderjoes.com/home/products/pdp/chew-cuterie-assorted-dog-treats-072150",
+    "imageUrl": "https://www.traderjoes.com/content/dam/trjo/products/m503/72150.png/jcr:content/renditions/cq5dam.web.1280.1280",
+    "imagePath": "/images/chew-cuterie-assorted-dog-treats.jpg"
+  },
+  {
+    "name": "Coconut Body Butter",
+    "price": "$5.99",
+    "category": "For the Face & Body",
+    "url": "https://www.traderjoes.com/home/products/pdp/coconut-body-butter-050130",
+    "imageUrl": "https://www.traderjoes.com/content/dam/trjo/products/m502/50130.png/jcr:content/renditions/cq5dam.web.1280.1280",
+    "imagePath": "/images/coconut-body-butter.jpg"
+  },
+  {
+    "name": "Refresh Citrus Body Wash",
+    "price": "$2.99",
+    "category": "For the Face & Body",
+    "url": "https://www.traderjoes.com/home/products/pdp/refresh-citrus-body-wash-059047",
+    "imageUrl": "https://www.traderjoes.com/content/dam/trjo/products/m502/59047.png/jcr:content/renditions/cq5dam.web.1280.1280",
+    "imagePath": "/images/refresh-citrus-body-wash.jpg"
+  },
+  {
+    "name": "Lemongrass Coconut Body Oil",
+    "price": "$3.99",
+    "category": "For the Face & Body",
+    "url": "https://www.traderjoes.com/home/products/pdp/lemongrass-coconut-body-oil-060873",
+    "imageUrl": "https://www.traderjoes.com/content/dam/trjo/products/m502/60873.png/jcr:content/renditions/cq5dam.web.1280.1280",
+    "imagePath": "/images/lemongrass-coconut-body-oil.jpg"
+  },
+  {
+    "name": "Marula Facial Oil",
+    "price": "$6.99",
+    "category": "For the Face & Body",
+    "url": "https://www.traderjoes.com/home/products/pdp/marula-facial-oil-068654",
+    "imageUrl": "https://www.traderjoes.com/content/dam/trjo/products/m502/68654.png/jcr:content/renditions/cq5dam.web.1280.1280",
+    "imagePath": "/images/marula-facial-oil.jpg"
+  },
+  {
+    "name": "Sunscreen Spray SPF 50+",
+    "price": "$5.99",
+    "category": "For the Face & Body",
+    "url": "https://www.traderjoes.com/home/products/pdp/sunscreen-spray-spf-50-095003",
+    "imageUrl": "https://www.traderjoes.com/content/dam/trjo/products/m502/95003.png/jcr:content/renditions/cq5dam.web.1280.1280",
+    "imagePath": "/images/sunscreen-spray-spf-50.jpg"
+  },
+  {
+    "name": "Grain Free Dog Treats with Peanut Butter & Banana",
+    "price": "$2.99",
+    "category": "Pet Stuff",
+    "url": "https://www.traderjoes.com/home/products/pdp/grain-free-dog-treats-with-peanut-butter-banana-062039",
+    "imageUrl": "https://www.traderjoes.com/content/dam/trjo/products/m503/62039.png/jcr:content/renditions/cq5dam.web.1280.1280",
+    "imagePath": "/images/grain-free-dog-treats-with-peanut-butter-banana.jpg"
+  },
+  {
+    "name": "Super Lemon Room Spritz",
+    "price": "$1.99",
+    "category": "Household Essentials",
+    "url": "https://www.traderjoes.com/home/products/pdp/super-lemon-room-spritz-065312",
+    "imageUrl": "https://www.traderjoes.com/content/dam/trjo/products/m501/65312.png/jcr:content/renditions/cq5dam.web.1280.1280",
+    "imagePath": "/images/super-lemon-room-spritz.jpg"
+  },
+  {
+    "name": "Hydrating Hyaluronic Body Gel Cream",
+    "price": "$3.99",
+    "category": "For the Face & Body",
+    "url": "https://www.traderjoes.com/home/products/pdp/hydrating-hyaluronic-body-gel-cream-068371",
+    "imageUrl": "https://www.traderjoes.com/content/dam/trjo/products/m502/68371.png/jcr:content/renditions/cq5dam.web.1280.1280",
+    "imagePath": "/images/hydrating-hyaluronic-body-gel-cream.jpg"
+  },
+  {
+    "name": "Liquid Laundry Detergent Free & Clear",
+    "price": "$5.99",
+    "category": "Household Essentials",
+    "url": "https://www.traderjoes.com/home/products/pdp/liquid-laundry-detergent-free-clear-065404",
+    "imageUrl": "https://www.traderjoes.com/content/dam/trjo/products/m501/65404.png/jcr:content/renditions/cq5dam.web.1280.1280",
+    "imagePath": "/images/liquid-laundry-detergent-free-clear.jpg"
+  },
+  {
+    "name": "Reusable Lavender Dryer Bags",
+    "price": "$4.49",
+    "category": "Household Essentials",
+    "url": "https://www.traderjoes.com/home/products/pdp/reusable-lavender-dryer-bags-066998",
+    "imageUrl": "https://www.traderjoes.com/content/dam/trjo/products/m501/66998.png/jcr:content/renditions/cq5dam.web.1280.1280",
+    "imagePath": "/images/reusable-lavender-dryer-bags.jpg"
+  },
+  {
+    "name": "Dry Shampoo",
+    "price": "$4.99",
+    "category": "For the Face & Body",
+    "url": "https://www.traderjoes.com/home/products/pdp/dry-shampoo-067891",
+    "imageUrl": "https://www.traderjoes.com/content/dam/trjo/products/m502/67891.png/jcr:content/renditions/cq5dam.web.1280.1280",
+    "imagePath": "/images/dry-shampoo.jpg"
+  },
+  {
+    "name": "Almond Ginger Scent Oatmeal Exfoliant Bar",
+    "price": "$3.99",
+    "category": "For the Face & Body",
+    "url": "https://www.traderjoes.com/home/products/pdp/almond-ginger-scent-oatmeal-exfoliant-bar-048065",
+    "imageUrl": "https://www.traderjoes.com/content/dam/trjo/products/m502/48065.png/jcr:content/renditions/cq5dam.web.1280.1280",
+    "imagePath": "/images/almond-ginger-scent-oatmeal-exfoliant-bar.jpg"
+  },
+  {
+    "name": "Lemon Scent Dishwasher Detergent Gel",
+    "price": "$3.99",
+    "category": "Household Essentials",
+    "url": "https://www.traderjoes.com/home/products/pdp/lemon-scent-dishwasher-detergent-gel-058007",
+    "imageUrl": "https://www.traderjoes.com/content/dam/trjo/products/m501/58007.png/jcr:content/renditions/cq5dam.web.1280.1280",
+    "imagePath": "/images/lemon-scent-dishwasher-detergent-gel.jpg"
+  },
+  {
+    "name": "Shea Butter & Coconut Oil Hair Serum",
+    "price": "$4.99",
+    "category": "For the Face & Body",
+    "url": "https://www.traderjoes.com/home/products/pdp/shea-butter-coconut-oil-hair-serum-064656",
+    "imageUrl": "https://www.traderjoes.com/content/dam/trjo/products/m502/64656.png/jcr:content/renditions/cq5dam.web.1280.1280",
+    "imagePath": "/images/shea-butter-coconut-oil-hair-serum.jpg"
+  },
+  {
+    "name": "Ultra Hydrating Gel Moisturizer",
+    "price": "$8.99",
+    "category": "For the Face & Body",
+    "url": "https://www.traderjoes.com/home/products/pdp/ultra-hydrating-gel-moisturizer-064459",
+    "imageUrl": "https://www.traderjoes.com/content/dam/trjo/products/m502/64459.png/jcr:content/renditions/cq5dam.web.1280.1280",
+    "imagePath": "/images/ultra-hydrating-gel-moisturizer.jpg"
+  },
+  {
+    "name": "Rich Hydrating Face Sheet Mask",
+    "price": "$1.99",
+    "category": "For the Face & Body",
+    "url": "https://www.traderjoes.com/home/products/pdp/rich-hydrating-face-sheet-mask-061579",
+    "imageUrl": "https://www.traderjoes.com/content/dam/trjo/products/m502/61579.png/jcr:content/renditions/cq5dam.web.1280.1280",
+    "imagePath": "/images/rich-hydrating-face-sheet-mask.jpg"
+  },
+  {
+    "name": "Rose Water Facial Toner",
+    "price": "$3.99",
+    "category": "For the Face & Body",
+    "url": "https://www.traderjoes.com/home/products/pdp/rose-water-facial-toner-061905",
+    "imageUrl": "https://www.traderjoes.com/content/dam/trjo/products/m502/61905.png/jcr:content/renditions/cq5dam.web.1280.1280",
+    "imagePath": "/images/rose-water-facial-toner.jpg"
+  }
+]
