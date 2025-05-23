@@ -37,8 +37,8 @@ const App = () => {
   const handleCategorySelect = (category) => {
     setCategory(category);
     setSearchQuery('');
-    window.scrollTo({ top: 0, behavior: 'smooth' });
     setView('browse');
+    window.scrollTo({ top: 0, behavior: 'smooth' });
   }
 
   const handleAisleClick = () => {
