@@ -37,11 +37,13 @@ const App = () => {
   const handleCategorySelect = (category) => {
     setCategory(category);
     setSearchQuery('');
+    window.scrollTo({ top: 0, behavior: 'smooth' });
     setView('browse');
   }
 
   const handleAisleClick = () => {
     setView('categories');
+    window.scrollTo({ top: 0, behavior: 'smooth' });
     setSearchQuery('');
     setCategory(null);
   }
@@ -49,11 +51,13 @@ const App = () => {
   const handleSearch = (query) => {
     setSearchQuery(query);
     setView('browse');
+    window.scrollTo({ top: 0, behavior: 'smooth' });
     console.log("Search query is", query);
   }
 
   const handleCartClick = () => {
     setView('list');
+    window.scrollTo({ top: 0, behavior: 'smooth' });
     setSearchQuery('');
     setCategory(null);
   }
