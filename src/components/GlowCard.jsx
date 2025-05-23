@@ -1,6 +1,6 @@
 import { useRef, useState } from 'react';
 
-const GlowCard = ({ children }) => {
+const GlowCard = ({ children, classname }) => {
   const cardRef = useRef(null);
   const [gradientPos, setGradientPos] = useState({ x: 50, y: 50 });
   const [hovered, setHovered] = useState(false);
@@ -18,7 +18,7 @@ const GlowCard = ({ children }) => {
       onMouseEnter={() => setHovered(true)}
       onMouseLeave={() => setHovered(false)}
       onMouseMove={handleMouseMove}
-      className="relative rounded p-4 transition duration-200 bg-white shadow"
+      className={`relative rounded p-4 transition duration-200 bg-white shadow ${classname}`}
       style={{
         border: hovered ? '2px solid transparent' : 'none',
         borderImage: hovered

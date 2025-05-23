@@ -4,7 +4,7 @@ import GroceryList from './components/GroceryList';
 import ProductList from './components/ProductList';
 import CategoriesSection from './sections/CategoriesSection';
 import SearchBar from './components/SearchBar';
-import Loading from './components/Loading';
+
 
 const App = () => {
   const [view, setView] = useState('categories');
